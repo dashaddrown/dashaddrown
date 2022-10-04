@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dashaddrown
+- 👋 Hi, I’m git config --global user.name <dashaddrown>
 - 👀 I’m interested in ... movies, music, outdoors, hiking, cooking, photography
 - 🌱 I’m currently learning ... data analytics
 - 💞️ I’m looking to collaborate on ... learning new things and working together with a group
